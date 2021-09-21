@@ -3,4 +3,4 @@ This is new File
 First File
 second line
 Conflcit confirmed
-New Line added
+Forced conflict its incorrect
