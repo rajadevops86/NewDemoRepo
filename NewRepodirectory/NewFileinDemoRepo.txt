@@ -2,4 +2,4 @@ I am making everything right
 This is new File
 First File
 second line
-
+Conflcit confirmed
